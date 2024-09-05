@@ -5,7 +5,9 @@ Genome-wide differentiation corresponds to climatic niche in two species of lich
 Edgar L.Y. Wong1,2, Henrique F. Valim1,2, Imke Schmitt1,2,3
 
 1 Senckenberg Biodiversity and Climate Research Centre, Frankfurt am Main, Germany
+
 2 LOEWE Centre for Translational Biodiversity Genomics (LOEWE-TBG), Frankfurt am Main, Germany
+
 3 Goethe University Frankfurt, Institute of Ecology, Evolution and Diversity, Frankfurt am Main, Germany
 Correspondence: edgar.wong@senckenberg.de 
 
